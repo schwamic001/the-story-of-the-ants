@@ -1,0 +1,40 @@
+#box {
+    line-height: 2;
+}
+
+#l2 {
+    background-color: orange;
+}
+
+#l6 {
+    font-weight: bold;
+    font-size: xx-large;
+    text-decoration:line-through;
+}
+
+#l8 {
+    font-size: small;
+    font-weight: bold;
+    color: orange;
+}
+
+#l12 {
+    text-align: center;
+}
+
+#l13 {
+    text-align: right;
+}
+
+#l16 {
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.flex-horiz {
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+    width: 100%;
+}
